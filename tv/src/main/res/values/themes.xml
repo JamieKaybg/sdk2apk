@@ -1,0 +1,4 @@
+<resources>
+
+    <style name="Theme.Sdk2apk" parent="@style/Theme.Leanback" />
+</resources>
